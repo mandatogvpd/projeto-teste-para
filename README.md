@@ -18,7 +18,9 @@
 <!-- Quais dados usa, de onde vêm e quais acessos são necessários. NÃO escreva senhas ou chaves aqui. -->
 
 ## Publicação
-<!-- Preencha só se o projeto for publicado: comando de build, pasta de saída, link público. Se não for publicado, escreva "Não publicado". -->
+- Build: nenhum (página HTML pronta)
+- Pasta publicada: `site/`
+- Link público: https://projetoteste42132131.pages.dev (confirmar no log do fluxo, na aba Actions)
 
 ## Estrutura
 ```
